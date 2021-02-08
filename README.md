@@ -4,7 +4,7 @@ USHIP GESTION est un logiciel développé en Java 8 (NetBeans), il permet de gé
 
 ## Documentation et informations 📕
 
-- 📚 [Voir la documentation](https://docs.google.com/document/d/1pQ6byV07CO8u2E9mGfx29PC48VQNcCja2vEqIatVqe0/edit?usp=sharing)
+- 📚 [Voir la documentation](https://docs.google.com/document/d/1JvEgqAaJrTK4Y6vaTXtTB_5Kym6qfHU98jmbv-wKP4M/edit?usp=sharing)
 - 📕 Pour accèder au logiciels les identifiants admin sont : Login (admin) Mot de passe (admin), une fois connecté vous pouvez gérer les utilisateurs
 
 ## Requis 🖱️
@@ -48,7 +48,7 @@ Voici un lien pour le télécharger: [WampServer](https://www.wampserver.com/en/
 - Executer le fichier
 
 - Ensuite utiliser la documentation afin d'avoir des informations sur le logiciel ansi qu'une notice d'utilisation
-- [Cliquer ici pour avoir accès a la documentation](https://docs.google.com/document/d/1pQ6byV07CO8u2E9mGfx29PC48VQNcCja2vEqIatVqe0/edit?usp=sharing)
+- [Cliquer ici pour avoir accès a la documentation](https://docs.google.com/document/d/1JvEgqAaJrTK4Y6vaTXtTB_5Kym6qfHU98jmbv-wKP4M/edit?usp=sharing)
 
 # Si vous rencontrez un problème de lancement des classes 📁
  - Recreer un projet Java JDK 8 
